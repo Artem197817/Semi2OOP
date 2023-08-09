@@ -36,5 +36,14 @@ public abstract class AbstractCard implements Card {
     public void take(double amount) {
 
     }
+
+    @Override
+    public String toString() {
+        return "AbstractCard{" +
+                "nameOwner='" + nameOwner + '\'' +
+                ", number='" + number + '\'' +
+                ", current=" + current +
+                '}';
+    }
 }
 
