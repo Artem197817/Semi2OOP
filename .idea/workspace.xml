@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8830cf7e-b23b-420e-97da-57896a957b1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semi2OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DebetCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DepositCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FixedCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="8830cf7e-b23b-420e-97da-57896a957b1c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
